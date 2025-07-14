@@ -9,7 +9,8 @@ focusing on creating a visualization to represent the distribution of a categori
 
 The dataset used for this task is wold population data
 ## Tools and Libraries used
-- vs code 
+- vs code
+- jupyter notebook
 - Pandas
 - Numpy
 - Matplotlip & Seaborn for visualization
